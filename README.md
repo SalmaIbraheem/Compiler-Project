@@ -1,6 +1,6 @@
 # Compiler Project 
 
-It's a Compiler for a language that follows the syntax rules which are explained in the Proposal.pdf
+It's a Compiler that preforms (Lexical Analysis Syntax analysis, Parsing, Semantic Analysis, Code Generation) for a language that follows a specific syntax rules which are explained in the Proposal.pdf
 
 # How to run:
 * Run App.exe that will open a window then write the code that you want to comply 
